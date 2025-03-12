@@ -135,3 +135,12 @@ In my Case , you can get access using
 ```bash
 http://132.164.45.220/
 ```
+
+6. **Test the Application**<br/>
+
+To clear the azure recources<br/>
+```bash
+terraform destroy
+#confirm with "yes"
+```
+Make sure the correct folder.
